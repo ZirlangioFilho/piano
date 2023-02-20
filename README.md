@@ -1,2 +1,2 @@
-# piano
-Piano virtual com o tema - The Lengend of Zelda Ocarina of Time
+# Piano
+Piano virtual com o tema - The Legend of Zelda Ocarina of Time
